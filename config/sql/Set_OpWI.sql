@@ -1,0 +1,16 @@
+/**/
+CREATE TABLE IF NOT EXISTS SetOpWI (
+	  id int(2) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	  Name VARCHAR(24) NOT NULL,
+	  Dscp VARCHAR(24) NOT NULL,
+	  Vale VARCHAR(12) NOT NULL DEFAULT '0'
+	) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO SetOpWI VALUES (NULL,'SetOpWI_NrTabs','Number of Tabs','8');
+INSERT INTO SetOpWI VALUES (NULL,'SetOpWI_NrRows','Number of Rows','6');
+INSERT INTO SetOpWI VALUES (NULL,'SetOpWI_NrClmn','Number of Column','2');
+INSERT INTO SetOpWI VALUES (NULL,'SetOpWI_000004','Description','Value');
+INSERT INTO SetOpWI VALUES (NULL,'SetOpWI_000005','Description','Value');
+INSERT INTO SetOpWI VALUES (NULL,'SetOpWI_000006','Description','Value');
+INSERT INTO SetOpWI VALUES (NULL,'SetOpWI_000007','Description','Value');
+INSERT INTO SetOpWI VALUES (NULL,'SetOpWI_000008','Description','Value');

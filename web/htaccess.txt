@@ -1,0 +1,6 @@
+
+RewriteEngine On
+RewriteRule ^subdirectory/(.*)$ /web/$1 [R=301,NC,L]
+
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://appyii.webemme.net/$1 [R,L]

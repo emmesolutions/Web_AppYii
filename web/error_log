@@ -1,0 +1,368 @@
+[08-Feb-2016 05:03:01 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/webemmen/public_html/WM_AppYii/views/site/application.php on line 71
+[08-Feb-2016 05:03:01 America/Denver] PHP Fatal error:  Uncaught exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home4/webemmen/public_html/WM_AppYii/views/site/error.php' in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#1 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(371): yii\base\View->render('error', Array, Object(app\controllers\SiteController))
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/ErrorAction.php(109): yii\base\Controller->render('error', Array)
+#3 [internal function]: yii\web\ErrorAction->run()
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Action.php(92): call_user_func_array(Array, Array)
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(151): yii\base\Action->runWithP in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php on line 226
+[08-Feb-2016 05:26:01 America/Denver] PHP Notice:  Undefined offset: 2 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 143
+[08-Feb-2016 05:26:01 America/Denver] PHP Notice:  Undefined offset: 3 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 144
+[08-Feb-2016 05:26:01 America/Denver] PHP Notice:  Undefined offset: 4 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 145
+[08-Feb-2016 05:26:01 America/Denver] PHP Notice:  Undefined offset: 5 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 146
+[08-Feb-2016 05:26:01 America/Denver] PHP Notice:  Undefined offset: 6 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 147
+[08-Feb-2016 05:26:01 America/Denver] PHP Notice:  Undefined offset: 7 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 148
+[08-Feb-2016 05:26:01 America/Denver] PHP Notice:  Undefined offset: 8 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 149
+[08-Feb-2016 05:26:02 America/Denver] PHP Notice:  Undefined offset: 2 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 143
+[08-Feb-2016 05:26:02 America/Denver] PHP Notice:  Undefined offset: 3 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 144
+[08-Feb-2016 05:26:02 America/Denver] PHP Notice:  Undefined offset: 4 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 145
+[08-Feb-2016 05:26:02 America/Denver] PHP Notice:  Undefined offset: 5 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 146
+[08-Feb-2016 05:26:02 America/Denver] PHP Notice:  Undefined offset: 6 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 147
+[08-Feb-2016 05:26:02 America/Denver] PHP Notice:  Undefined offset: 7 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 148
+[08-Feb-2016 05:26:02 America/Denver] PHP Notice:  Undefined offset: 8 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 149
+[08-Feb-2016 05:26:12 America/Denver] PHP Notice:  Undefined offset: 2 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 143
+[08-Feb-2016 05:26:12 America/Denver] PHP Notice:  Undefined offset: 3 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 144
+[08-Feb-2016 05:26:12 America/Denver] PHP Notice:  Undefined offset: 4 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 145
+[08-Feb-2016 05:26:12 America/Denver] PHP Notice:  Undefined offset: 5 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 146
+[08-Feb-2016 05:26:12 America/Denver] PHP Notice:  Undefined offset: 6 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 147
+[08-Feb-2016 05:26:12 America/Denver] PHP Notice:  Undefined offset: 7 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 148
+[08-Feb-2016 05:26:12 America/Denver] PHP Notice:  Undefined offset: 8 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 149
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 2 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 143
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 3 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 144
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 4 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 145
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 5 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 146
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 6 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 147
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 7 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 148
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 8 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 149
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 2 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 143
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 3 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 144
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 4 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 145
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 5 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 146
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 6 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 147
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 7 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 148
+[08-Feb-2016 05:26:20 America/Denver] PHP Notice:  Undefined offset: 8 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 149
+[08-Feb-2016 05:26:22 America/Denver] PHP Notice:  Undefined offset: 2 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 143
+[08-Feb-2016 05:26:22 America/Denver] PHP Notice:  Undefined offset: 3 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 144
+[08-Feb-2016 05:26:22 America/Denver] PHP Notice:  Undefined offset: 4 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 145
+[08-Feb-2016 05:26:22 America/Denver] PHP Notice:  Undefined offset: 5 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 146
+[08-Feb-2016 05:26:22 America/Denver] PHP Notice:  Undefined offset: 6 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 147
+[08-Feb-2016 05:26:22 America/Denver] PHP Notice:  Undefined offset: 7 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 148
+[08-Feb-2016 05:26:22 America/Denver] PHP Notice:  Undefined offset: 8 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 149
+[08-Feb-2016 05:26:50 America/Denver] PHP Notice:  Undefined offset: 2 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 143
+[08-Feb-2016 05:26:50 America/Denver] PHP Notice:  Undefined offset: 3 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 144
+[08-Feb-2016 05:26:50 America/Denver] PHP Notice:  Undefined offset: 4 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 145
+[08-Feb-2016 05:26:50 America/Denver] PHP Notice:  Undefined offset: 5 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 146
+[08-Feb-2016 05:26:50 America/Denver] PHP Notice:  Undefined offset: 6 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 147
+[08-Feb-2016 05:26:50 America/Denver] PHP Notice:  Undefined offset: 7 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 148
+[08-Feb-2016 05:26:50 America/Denver] PHP Notice:  Undefined offset: 8 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 149
+[08-Feb-2016 05:26:54 America/Denver] PHP Notice:  Undefined offset: 2 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 143
+[08-Feb-2016 05:26:54 America/Denver] PHP Notice:  Undefined offset: 3 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 144
+[08-Feb-2016 05:26:54 America/Denver] PHP Notice:  Undefined offset: 4 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 145
+[08-Feb-2016 05:26:54 America/Denver] PHP Notice:  Undefined offset: 5 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 146
+[08-Feb-2016 05:26:54 America/Denver] PHP Notice:  Undefined offset: 6 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 147
+[08-Feb-2016 05:26:54 America/Denver] PHP Notice:  Undefined offset: 7 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 148
+[08-Feb-2016 05:26:54 America/Denver] PHP Notice:  Undefined offset: 8 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 149
+[08-Feb-2016 05:27:08 America/Denver] PHP Notice:  Undefined offset: 2 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 143
+[08-Feb-2016 05:27:08 America/Denver] PHP Notice:  Undefined offset: 3 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 144
+[08-Feb-2016 05:27:08 America/Denver] PHP Notice:  Undefined offset: 4 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 145
+[08-Feb-2016 05:27:08 America/Denver] PHP Notice:  Undefined offset: 5 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 146
+[08-Feb-2016 05:27:08 America/Denver] PHP Notice:  Undefined offset: 6 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 147
+[08-Feb-2016 05:27:08 America/Denver] PHP Notice:  Undefined offset: 7 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 148
+[08-Feb-2016 05:27:08 America/Denver] PHP Notice:  Undefined offset: 8 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 149
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 2 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 143
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 3 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 144
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 4 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 145
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 5 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 146
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 6 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 147
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 7 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 148
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 8 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 149
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 2 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 143
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 3 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 144
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 4 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 145
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 5 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 146
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 6 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 147
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 7 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 148
+[08-Feb-2016 05:27:13 America/Denver] PHP Notice:  Undefined offset: 8 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 149
+[08-Feb-2016 05:27:14 America/Denver] PHP Notice:  Undefined offset: 2 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 143
+[08-Feb-2016 05:27:14 America/Denver] PHP Notice:  Undefined offset: 3 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 144
+[08-Feb-2016 05:27:14 America/Denver] PHP Notice:  Undefined offset: 4 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 145
+[08-Feb-2016 05:27:14 America/Denver] PHP Notice:  Undefined offset: 5 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 146
+[08-Feb-2016 05:27:14 America/Denver] PHP Notice:  Undefined offset: 6 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 147
+[08-Feb-2016 05:27:14 America/Denver] PHP Notice:  Undefined offset: 7 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 148
+[08-Feb-2016 05:27:14 America/Denver] PHP Notice:  Undefined offset: 8 in /home4/webemmen/public_html/WM_AppYii/config/params.php on line 149
+[08-Feb-2016 05:31:16 America/Denver] An Error occurred while handling another error:
+exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home4/webemmen/public_html/WM_AppYii/views/site/error.php' in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#1 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(371): yii\base\View->render('error', Array, Object(app\controllers\SiteController))
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/ErrorAction.php(109): yii\base\Controller->render('error', Array)
+#3 [internal function]: yii\web\ErrorAction->run()
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Action.php(92): call_user_func_array(Array, Array)
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(151): yii\base\Action->runWithParams(Array)
+#6 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('error', Array)
+#7 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/ErrorHandler.php(85): yii\base\Module->runAction('site/error')
+#8 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/ErrorHandler.php(109): yii\web\ErrorHandler->renderException(Object(yii\web\BadRequestHttpException))
+#9 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\BadRequestHttpException))
+#10 {main}
+Previous exception:
+exception 'yii\web\BadRequestHttpException' with message 'Unable to verify your data submission.' in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/Controller.php:110
+Stack trace:
+#0 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(149): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#1 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('logout', Array)
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('site/logout', Array)
+#3 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#4 /home4/webemmen/public_html/WM_AppYii/web/index.php(33): yii\base\Application->run()
+#5 {main}
+$_SERVER = [
+    'CONTENT_LENGTH' => '68',
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded',
+    'DOCUMENT_ROOT' => '/home4/webemmen/public_html/WM_AppYii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'it-IT,it;q=0.8,en-US;q=0.6,en;q=0.4',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_COOKIE' => 'Tb1_ClRwD3=34; Tb1_ClRwB4=42; Tb1_ClRwC4=43; Tb1_ClRwD4=44; Tb1_ClRwA5=51; Tb1_ClRwB5=52; Tb1_ClRwC5=53; Tb1_ClRwD5=54; Tb1_ClRwA6=61; Tb1_ClRwB6=62; Tb1_ClRwC6=63; Tb1_ClRwD6=64; Tb1_ClRwA7=71; Tb1_ClRwB7=72; Tb1_ClRwC7=73; Tb1_ClRwD7=74; Set0011=Value; Set0012=Value; Tb1_ClRwA8=81; Tb1_ClRwB8=82; Tb1_ClRwC8=83; Tb1_ClRwD8=84; Tb2_ClRwA1=11; Tb2_ClRwB1=12; Tb2_ClRwC1=13; Tb2_ClRwD1=14; Tb2_ClRwA2=21; Tb2_ClRwB2=22; Tb2_ClRwC2=23; Tb2_ClRwD2=24; Tb2_ClRwA3=31; Tb2_ClRwB3=32; Tb2_ClRwC3=33; Tb2_ClRwD3=34; Tb2_ClRwA4=41; Tb2_ClRwB4=42; Tb2_ClRwC4=43; Tb2_ClRwD4=44; Tb2_ClRwA5=51; Tb2_ClRwB5=52; Tb2_ClRwC5=53; Tb2_ClRwD5=54; Tb2_ClRwA6=61; Tb2_ClRwB6=62; Tb2_ClRwC6=63; Tb2_ClRwD6=64; Tb2_ClRwA7=71; Tb2_ClRwB7=72; Tb2_ClRwC7=73; Tb1_ClRwA4=43; Tb2_ClRwD7=74; Tb2_ClRwA8=81; Tb2_ClRwB8=82; Tb2_ClRwC8=83; Tb2_ClRwD8=84; Tb3_ClRwA1=11; Tb3_ClRwB1=12; Tb3_ClRwC1=13; Tb3_ClRwD1=14; Tb3_ClRwA2=21; Tb3_ClRwB2=22; Tb3_ClRwC2=23; Tb3_ClRwD2=24; Tb3_ClRwA3=31; Tb3_ClRwB3=32; Tb3_ClRwC3=33; Tb3_ClRwD3=34; Tb3_ClRwB4=42; Tb3_ClRwC4=43; Tb3_ClRwD4=44; Tb3_ClRwA5=51; Tb3_ClRwB5=52; Tb3_ClRwC5=53; Tb3_ClRwD5=54; Tb3_ClRwA6=61; Tb3_ClRwB6=62; Tb3_ClRwC6=63; Tb3_ClRwD6=64; Tb3_ClRwA7=71; Tb3_ClRwB7=72; Tb5_ClRwA1=11; Tb3_ClRwC7=73; Tb3_ClRwD7=74; Tb3_ClRwA8=81; Tb3_ClRwB8=82; Tb3_ClRwC8=83; Tb3_ClRwD8=84; Tb4_ClRwA1=11; Tb4_ClRwB1=12; Tb4_ClRwC1=13; Tb4_ClRwD1=14; Tb4_ClRwB2=22; Tb4_ClRwC2=23; Tb4_ClRwD2=24; Tb4_ClRwA3=31; Tb4_ClRwB3=32; Tb4_ClRwC3=33; Tb4_ClRwD3=34; Tb4_ClRwA4=41; Tb4_ClRwB4=42; Tb4_ClRwC4=43; Tb4_ClRwD4=44; Tb4_ClRwA5=51; Tb4_ClRwB5=52; Tb4_ClRwC5=53; Tb4_ClRwD5=54; Tb4_ClRwA6=61; Tb4_ClRwB6=62; Tb4_ClRwC6=63; Tb4_ClRwD6=64; Tb4_ClRwA7=71; Tb4_ClRwB7=72; Tb3_ClRwA4=42; Tb4_ClRwA2=21; Tb4_ClRwC7=73; Tb4_ClRwD7=74; Tb4_ClRwA8=81; Tb4_ClRwB8=82; Tb4_ClRwC8=83; Tb4_ClRwD8=84; Tb5_ClRwB1=12; Tb5_ClRwC1=13; Tb5_ClRwD1=14; Tb5_ClRwA2=21; Tb5_ClRwB2=22; Tb5_ClRwC2=23; Tb5_ClRwD2=24; Tb5_ClRwA3=31; Tb5_ClRwB3=32; Tb5_ClRwC3=33; Tb5_ClRwD3=34; Tb5_ClRwA4=41; Tb5_ClRwB4=42; Tb5_ClRwC4=43; Tb5_ClRwD4=44; Tb5_ClRwA5=51; Tb5_ClRwB5=52; Tb5_ClRwC5=53; Tb5_ClRwD5=54; Tb5_ClRwA6=61; Tb5_ClRwB6=62; Tb5_ClRwC6=63; Tb5_ClRwD6=64; Tb5_ClRwA7=71; _identity=%5B%22100%22%2C%22test100key%22%2C2592000%5D; Tb5_ClRwB7=72; Tb5_ClRwC7=73; Tb5_ClRwD7=74; Tb5_ClRwA8=81; Tb5_ClRwB8=82; Tb5_ClRwC8=83; Tb5_ClRwD8=84; Tb6_ClRwA1=11; Tb6_ClRwB1=12; Tb6_ClRwC1=13; Tb6_ClRwD1=14; Tb6_ClRwA2=21; Tb6_ClRwB2=22; Tb6_ClRwC2=23; Tb6_ClRwD2=24; Tb6_ClRwA3=31; Tb6_ClRwB3=32; Tb6_ClRwC3=33; Tb6_ClRwD3=34; Tb6_ClRwA4=41; Tb6_ClRwB4=42; Tb6_ClRwC4=43; Tb6_ClRwD4=44; Tb6_ClRwA5=51; Tb6_ClRwB5=52; Tb6_ClRwC5=53; Tb6_ClRwD5=54; Tb6_ClRwA6=61; Tb6_ClRwB6=62; Tb6_ClRwC6=63; Tb6_ClRwD6=64',
+    'HTTP_HOST' => 'appyii.webemme.net',
+    'HTTP_ORIGIN' => 'http://appyii.webemme.net',
+    'HTTP_REFERER' => 'http://appyii.webemme.net/web/index.php?r=site/application&TimeSc=423&DateD=08&DateM=02&DateY=2016&TimeH=05&TimeM=31&GPSLat=25652&GPSLng=80489&CmpsH=100&CmpsP=1&CmpsR=5&Speed=14&Depth=4&TmpExt=24&TmpInt=43&HmdInt=69&TmpH2O=18&MEnTmp=31&BlTTmp=34&HdwBtV=7&EngBtV=12&EngBtI=5&RPiBtV=3&BtAtmy=2&MEnSnI=6&BlTSnI=4&Rd1Trm=12&Rd2Trm=83&SonarF=41&SonarB=63&CllSnr=81&OprCmd=0&PrmCmd=0&MsgAlm=1&CmdSts=11&InpSts=5&OutSts=15',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36',
+    'MAGICK_THREAD_LIMIT' => '1',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => 'r=site%2Flogout',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '217.58.138.146',
+    'REMOTE_PORT' => '63058',
+    'REQUEST_METHOD' => 'POST',
+    'REQUEST_URI' => '/web/index.php?r=site%2Flogout',
+    'SCRIPT_FILENAME' => '/home4/webemmen/public_html/WM_AppYii/web/index.php',
+    'SCRIPT_NAME' => '/web/index.php',
+    'SERVER_ADDR' => '67.20.111.163',
+    'SERVER_ADMIN' => 'webmaster@appyii.webemme.net',
+    'SERVER_NAME' => 'appyii.webemme.net',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at appyii.webemme.net Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'TZ' => 'America/Boise',
+    'UNIQUE_ID' => 'VriKlEKT9M0AADGEunQAAACd',
+    'PHPRC' => '/home4/webemmen/public_html/:/usr/php/54/etc/',
+    'PHP_SELF' => '/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1454934676.6018989,
+    'REQUEST_TIME' => 1454934676,
+]
+[08-Feb-2016 05:31:20 America/Denver] An Error occurred while handling another error:
+exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home4/webemmen/public_html/WM_AppYii/views/site/error.php' in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#1 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(371): yii\base\View->render('error', Array, Object(app\controllers\SiteController))
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/ErrorAction.php(109): yii\base\Controller->render('error', Array)
+#3 [internal function]: yii\web\ErrorAction->run()
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Action.php(92): call_user_func_array(Array, Array)
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(151): yii\base\Action->runWithParams(Array)
+#6 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('error', Array)
+#7 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/ErrorHandler.php(85): yii\base\Module->runAction('site/error')
+#8 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/ErrorHandler.php(109): yii\web\ErrorHandler->renderException(Object(yii\web\BadRequestHttpException))
+#9 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\BadRequestHttpException))
+#10 {main}
+Previous exception:
+exception 'yii\web\BadRequestHttpException' with message 'Unable to verify your data submission.' in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/Controller.php:110
+Stack trace:
+#0 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(149): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#1 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('logout', Array)
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('site/logout', Array)
+#3 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#4 /home4/webemmen/public_html/WM_AppYii/web/index.php(33): yii\base\Application->run()
+#5 {main}
+$_SERVER = [
+    'CONTENT_LENGTH' => '68',
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded',
+    'DOCUMENT_ROOT' => '/home4/webemmen/public_html/WM_AppYii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT_LANGUAGE' => 'it-IT,it;q=0.8,en-US;q=0.6,en;q=0.4',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_COOKIE' => 'Tb1_ClRwD3=34; Tb1_ClRwB4=42; Tb1_ClRwC4=43; Tb1_ClRwD4=44; Tb1_ClRwA5=51; Tb1_ClRwB5=52; Tb1_ClRwC5=53; Tb1_ClRwD5=54; Tb1_ClRwA6=61; Tb1_ClRwB6=62; Tb1_ClRwC6=63; Tb1_ClRwD6=64; Tb1_ClRwA7=71; Tb1_ClRwB7=72; Tb1_ClRwC7=73; Tb1_ClRwD7=74; Set0011=Value; Set0012=Value; Tb1_ClRwA8=81; Tb1_ClRwB8=82; Tb1_ClRwC8=83; Tb1_ClRwD8=84; Tb2_ClRwA1=11; Tb2_ClRwB1=12; Tb2_ClRwC1=13; Tb2_ClRwD1=14; Tb2_ClRwA2=21; Tb2_ClRwB2=22; Tb2_ClRwC2=23; Tb2_ClRwD2=24; Tb2_ClRwA3=31; Tb2_ClRwB3=32; Tb2_ClRwC3=33; Tb2_ClRwD3=34; Tb2_ClRwA4=41; Tb2_ClRwB4=42; Tb2_ClRwC4=43; Tb2_ClRwD4=44; Tb2_ClRwA5=51; Tb2_ClRwB5=52; Tb2_ClRwC5=53; Tb2_ClRwD5=54; Tb2_ClRwA6=61; Tb2_ClRwB6=62; Tb2_ClRwC6=63; Tb2_ClRwD6=64; Tb2_ClRwA7=71; Tb2_ClRwB7=72; Tb2_ClRwC7=73; Tb1_ClRwA4=43; Tb2_ClRwD7=74; Tb2_ClRwA8=81; Tb2_ClRwB8=82; Tb2_ClRwC8=83; Tb2_ClRwD8=84; Tb3_ClRwA1=11; Tb3_ClRwB1=12; Tb3_ClRwC1=13; Tb3_ClRwD1=14; Tb3_ClRwA2=21; Tb3_ClRwB2=22; Tb3_ClRwC2=23; Tb3_ClRwD2=24; Tb3_ClRwA3=31; Tb3_ClRwB3=32; Tb3_ClRwC3=33; Tb3_ClRwD3=34; Tb3_ClRwB4=42; Tb3_ClRwC4=43; Tb3_ClRwD4=44; Tb3_ClRwA5=51; Tb3_ClRwB5=52; Tb3_ClRwC5=53; Tb3_ClRwD5=54; Tb3_ClRwA6=61; Tb3_ClRwB6=62; Tb3_ClRwC6=63; Tb3_ClRwD6=64; Tb3_ClRwA7=71; Tb3_ClRwB7=72; Tb5_ClRwA1=11; Tb3_ClRwC7=73; Tb3_ClRwD7=74; Tb3_ClRwA8=81; Tb3_ClRwB8=82; Tb3_ClRwC8=83; Tb3_ClRwD8=84; Tb4_ClRwA1=11; Tb4_ClRwB1=12; Tb4_ClRwC1=13; Tb4_ClRwD1=14; Tb4_ClRwB2=22; Tb4_ClRwC2=23; Tb4_ClRwD2=24; Tb4_ClRwA3=31; Tb4_ClRwB3=32; Tb4_ClRwC3=33; Tb4_ClRwD3=34; Tb4_ClRwA4=41; Tb4_ClRwB4=42; Tb4_ClRwC4=43; Tb4_ClRwD4=44; Tb4_ClRwA5=51; Tb4_ClRwB5=52; Tb4_ClRwC5=53; Tb4_ClRwD5=54; Tb4_ClRwA6=61; Tb4_ClRwB6=62; Tb4_ClRwC6=63; Tb4_ClRwD6=64; Tb4_ClRwA7=71; Tb4_ClRwB7=72; Tb3_ClRwA4=42; Tb4_ClRwA2=21; Tb4_ClRwC7=73; Tb4_ClRwD7=74; Tb4_ClRwA8=81; Tb4_ClRwB8=82; Tb4_ClRwC8=83; Tb4_ClRwD8=84; Tb5_ClRwB1=12; Tb5_ClRwC1=13; Tb5_ClRwD1=14; Tb5_ClRwA2=21; Tb5_ClRwB2=22; Tb5_ClRwC2=23; Tb5_ClRwD2=24; Tb5_ClRwA3=31; Tb5_ClRwB3=32; Tb5_ClRwC3=33; Tb5_ClRwD3=34; Tb5_ClRwA4=41; Tb5_ClRwB4=42; Tb5_ClRwC4=43; Tb5_ClRwD4=44; Tb5_ClRwA5=51; Tb5_ClRwB5=52; Tb5_ClRwC5=53; Tb5_ClRwD5=54; Tb5_ClRwA6=61; Tb5_ClRwB6=62; Tb5_ClRwC6=63; Tb5_ClRwD6=64; Tb5_ClRwA7=71; _identity=%5B%22100%22%2C%22test100key%22%2C2592000%5D; Tb5_ClRwB7=72; Tb5_ClRwC7=73; Tb5_ClRwD7=74; Tb5_ClRwA8=81; Tb5_ClRwB8=82; Tb5_ClRwC8=83; Tb5_ClRwD8=84; Tb6_ClRwA1=11; Tb6_ClRwB1=12; Tb6_ClRwC1=13; Tb6_ClRwD1=14; Tb6_ClRwA2=21; Tb6_ClRwB2=22; Tb6_ClRwC2=23; Tb6_ClRwD2=24; Tb6_ClRwA3=31; Tb6_ClRwB3=32; Tb6_ClRwC3=33; Tb6_ClRwD3=34; Tb6_ClRwA4=41; Tb6_ClRwB4=42; Tb6_ClRwC4=43; Tb6_ClRwD4=44; Tb6_ClRwA5=51; Tb6_ClRwB5=52; Tb6_ClRwC5=53; Tb6_ClRwD5=54; Tb6_ClRwA6=61; Tb6_ClRwB6=62; Tb6_ClRwC6=63; Tb6_ClRwD6=64; PHPSESSID=qvv3d53a51f52oa1ora6sf9pn4',
+    'HTTP_HOST' => 'appyii.webemme.net',
+    'HTTP_ORIGIN' => 'http://appyii.webemme.net',
+    'HTTP_REFERER' => 'http://appyii.webemme.net/web/index.php?r=site/application&TimeSc=423&DateD=08&DateM=02&DateY=2016&TimeH=05&TimeM=31&GPSLat=25652&GPSLng=80489&CmpsH=100&CmpsP=1&CmpsR=5&Speed=14&Depth=4&TmpExt=24&TmpInt=43&HmdInt=69&TmpH2O=18&MEnTmp=31&BlTTmp=34&HdwBtV=7&EngBtV=12&EngBtI=5&RPiBtV=3&BtAtmy=2&MEnSnI=6&BlTSnI=4&Rd1Trm=12&Rd2Trm=83&SonarF=41&SonarB=63&CllSnr=81&OprCmd=0&PrmCmd=0&MsgAlm=1&CmdSts=11&InpSts=5&OutSts=15',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36',
+    'MAGICK_THREAD_LIMIT' => '1',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => 'r=site%2Flogout',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '217.58.138.146',
+    'REMOTE_PORT' => '63060',
+    'REQUEST_METHOD' => 'POST',
+    'REQUEST_URI' => '/web/index.php?r=site%2Flogout',
+    'SCRIPT_FILENAME' => '/home4/webemmen/public_html/WM_AppYii/web/index.php',
+    'SCRIPT_NAME' => '/web/index.php',
+    'SERVER_ADDR' => '67.20.111.163',
+    'SERVER_ADMIN' => 'webmaster@appyii.webemme.net',
+    'SERVER_NAME' => 'appyii.webemme.net',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at appyii.webemme.net Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'TZ' => 'America/Boise',
+    'UNIQUE_ID' => 'VriKmEKT9M0AAD@X19sAAAOQ',
+    'PHPRC' => '/home4/webemmen/public_html/:/usr/php/54/etc/',
+    'PHP_SELF' => '/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1454934680.8469479,
+    'REQUEST_TIME' => 1454934680,
+]
+[08-Feb-2016 07:51:23 America/Denver] PHP Fatal error:  Call to a member function DataCkWrite() on a non-object in /home4/webemmen/public_html/WM_AppYii/views/layouts/main.php on line 28
+[08-Feb-2016 07:51:23 America/Denver] PHP Fatal error:  Uncaught exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home4/webemmen/public_html/WM_AppYii/views/site/error.php' in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#1 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(371): yii\base\View->render('error', Array, Object(app\controllers\SiteController))
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/ErrorAction.php(109): yii\base\Controller->render('error', Array)
+#3 [internal function]: yii\web\ErrorAction->run()
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Action.php(92): call_user_func_array(Array, Array)
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(151): yii\base\Action->runWithP in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php on line 226
+[08-Feb-2016 07:51:41 America/Denver] PHP Warning:  Uncaught exception 'yii\base\ErrorException' with message 'Undefined variable: StoLData' in /home4/webemmen/public_html/WM_AppYii/views/layouts/wm_navmenu.php:13
+Stack trace:
+#0 /home4/webemmen/public_html/WM_AppYii/views/layouts/wm_navmenu.php(13): yii\base\ErrorHandler->handleError(8, 'Undefined varia...', '/home4/webemmen...', 13, Array)
+#1 /home4/webemmen/public_html/WM_AppYii/views/layouts/main.php(63): require('/home4/webemmen...')
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(325): require('/home4/webemmen...')
+#3 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(247): yii\base\View->renderPhpFile('/home4/webemmen...', Array)
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(386): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(372): yii\base\Controller->renderContent('<div class= in /home4/webemmen/public_html/WM_AppYii/views/layouts/wm_navmenu.php on line 13
+[08-Feb-2016 07:51:41 America/Denver] PHP Fatal error:  Call to a member function DataCkValue() on a non-object in /home4/webemmen/public_html/WM_AppYii/views/layouts/wm_navmenu.php on line 13
+[08-Feb-2016 07:51:41 America/Denver] PHP Fatal error:  Uncaught exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home4/webemmen/public_html/WM_AppYii/views/site/error.php' in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#1 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(371): yii\base\View->render('error', Array, Object(app\controllers\SiteController))
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/ErrorAction.php(109): yii\base\Controller->render('error', Array)
+#3 [internal function]: yii\web\ErrorAction->run()
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Action.php(92): call_user_func_array(Array, Array)
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(151): yii\base\Action->runWithP in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php on line 226
+[08-Feb-2016 07:52:35 America/Denver] PHP Warning:  Uncaught exception 'yii\base\ErrorException' with message 'Undefined variable: StoLData' in /home4/webemmen/public_html/WM_AppYii/views/layouts/wm_navmenu.php:13
+Stack trace:
+#0 /home4/webemmen/public_html/WM_AppYii/views/layouts/wm_navmenu.php(13): yii\base\ErrorHandler->handleError(8, 'Undefined varia...', '/home4/webemmen...', 13, Array)
+#1 /home4/webemmen/public_html/WM_AppYii/views/layouts/main.php(63): require('/home4/webemmen...')
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(325): require('/home4/webemmen...')
+#3 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(247): yii\base\View->renderPhpFile('/home4/webemmen...', Array)
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(386): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(372): yii\base\Controller->renderContent('<div class= in /home4/webemmen/public_html/WM_AppYii/views/layouts/wm_navmenu.php on line 13
+[08-Feb-2016 07:52:35 America/Denver] PHP Fatal error:  Call to a member function DataCkValue() on a non-object in /home4/webemmen/public_html/WM_AppYii/views/layouts/wm_navmenu.php on line 13
+[08-Feb-2016 07:52:35 America/Denver] PHP Fatal error:  Uncaught exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home4/webemmen/public_html/WM_AppYii/views/site/error.php' in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#1 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(371): yii\base\View->render('error', Array, Object(app\controllers\SiteController))
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/ErrorAction.php(109): yii\base\Controller->render('error', Array)
+#3 [internal function]: yii\web\ErrorAction->run()
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Action.php(92): call_user_func_array(Array, Array)
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(151): yii\base\Action->runWithP in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php on line 226
+[08-Feb-2016 07:52:43 America/Denver] PHP Warning:  Uncaught exception 'yii\base\ErrorException' with message 'Undefined variable: StoLData' in /home4/webemmen/public_html/WM_AppYii/views/layouts/wm_navmenu.php:13
+Stack trace:
+#0 /home4/webemmen/public_html/WM_AppYii/views/layouts/wm_navmenu.php(13): yii\base\ErrorHandler->handleError(8, 'Undefined varia...', '/home4/webemmen...', 13, Array)
+#1 /home4/webemmen/public_html/WM_AppYii/views/layouts/main.php(63): require('/home4/webemmen...')
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(325): require('/home4/webemmen...')
+#3 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(247): yii\base\View->renderPhpFile('/home4/webemmen...', Array)
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(386): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(372): yii\base\Controller->renderContent('<div class= in /home4/webemmen/public_html/WM_AppYii/views/layouts/wm_navmenu.php on line 13
+[08-Feb-2016 07:52:43 America/Denver] PHP Fatal error:  Call to a member function DataCkValue() on a non-object in /home4/webemmen/public_html/WM_AppYii/views/layouts/wm_navmenu.php on line 13
+[08-Feb-2016 07:52:43 America/Denver] PHP Fatal error:  Uncaught exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home4/webemmen/public_html/WM_AppYii/views/site/error.php' in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#1 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(371): yii\base\View->render('error', Array, Object(app\controllers\SiteController))
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/ErrorAction.php(109): yii\base\Controller->render('error', Array)
+#3 [internal function]: yii\web\ErrorAction->run()
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Action.php(92): call_user_func_array(Array, Array)
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(151): yii\base\Action->runWithP in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php on line 226
+[08-Feb-2016 07:54:49 America/Denver] An Error occurred while handling another error:
+exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home4/webemmen/public_html/WM_AppYii/views/site/error.php' in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#1 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(371): yii\base\View->render('error', Array, Object(app\controllers\SiteController))
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/ErrorAction.php(109): yii\base\Controller->render('error', Array)
+#3 [internal function]: yii\web\ErrorAction->run()
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Action.php(92): call_user_func_array(Array, Array)
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(151): yii\base\Action->runWithParams(Array)
+#6 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('error', Array)
+#7 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/ErrorHandler.php(85): yii\base\Module->runAction('site/error')
+#8 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/ErrorHandler.php(109): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#9 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\base\ErrorException))
+#10 {main}
+Previous exception:
+exception 'yii\base\ErrorException' with message 'Undefined index: Vale' in /home4/webemmen/public_html/WM_AppYii/helpers/wm_stoldata.php:89
+Stack trace:
+#0 /home4/webemmen/public_html/WM_AppYii/helpers/wm_stoldata.php(89): yii\base\ErrorHandler->handleError(8, 'Undefined index...', '/home4/webemmen...', 89, Array)
+#1 /home4/webemmen/public_html/WM_AppYii/helpers/wm_stoldata.php(139): WM_StoLData->DataDBValue(1)
+#2 /home4/webemmen/public_html/WM_AppYii/views/layouts/main.php(28): WM_StoLData->DataCkWrite('SetngsOpWI', '8')
+#3 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(325): require('/home4/webemmen...')
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(247): yii\base\View->renderPhpFile('/home4/webemmen...', Array)
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(386): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#6 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(372): yii\base\Controller->renderContent('<div class="sit...')
+#7 /home4/webemmen/public_html/WM_AppYii/controllers/SiteController.php(145): yii\base\Controller->render('login', Array)
+#8 [internal function]: app\controllers\SiteController->actionApplication()
+#9 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/InlineAction.php(55): call_user_func_array(Array, Array)
+#10 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#11 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Module.php(455): yii\base\Controller->runAction('application', Array)
+#12 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('site/applicatio...', Array)
+#13 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 /home4/webemmen/public_html/WM_AppYii/web/index.php(33): yii\base\Application->run()
+#15 {main}
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home4/webemmen/public_html/WM_AppYii',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch',
+    'HTTP_ACCEPT_LANGUAGE' => 'it-IT,it;q=0.8,en-US;q=0.6,en;q=0.4',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_COOKIE' => '_csrf=rFHxuTyQcarVHiIew2mqvIqhp2xADRnB; SetDemo=Online; SetLang=English; SetStle=Style01; SetLyut=Default; SetMnuP=Right; SetMnuV=Show; Set0007=Value; Set0008=Value',
+    'HTTP_HOST' => 'appyii.webemme.net',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36',
+    'MAGICK_THREAD_LIMIT' => '1',
+    'PATH' => '/bin:/usr/bin',
+    'QUERY_STRING' => 'r=site%2Fapplication',
+    'REDIRECT_STATUS' => '200',
+    'REMOTE_ADDR' => '217.58.138.146',
+    'REMOTE_PORT' => '63965',
+    'REQUEST_METHOD' => 'GET',
+    'REQUEST_URI' => '/web/index.php?r=site%2Fapplication',
+    'SCRIPT_FILENAME' => '/home4/webemmen/public_html/WM_AppYii/web/index.php',
+    'SCRIPT_NAME' => '/web/index.php',
+    'SERVER_ADDR' => '67.20.111.163',
+    'SERVER_ADMIN' => 'webmaster@appyii.webemme.net',
+    'SERVER_NAME' => 'appyii.webemme.net',
+    'SERVER_PORT' => '80',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'SERVER_SIGNATURE' => '<address>Apache Server at appyii.webemme.net Port 80</address>
+',
+    'SERVER_SOFTWARE' => 'Apache',
+    'TZ' => 'America/Boise',
+    'UNIQUE_ID' => 'VrisOUKT9M0AABl0GQQAAANP',
+    'PHPRC' => '/home4/webemmen/public_html/:/usr/php/54/etc/',
+    'PHP_SELF' => '/web/index.php',
+    'REQUEST_TIME_FLOAT' => 1454943289.164165,
+    'REQUEST_TIME' => 1454943289,
+]
+[08-Feb-2016 08:35:51 America/Denver] PHP Warning:  Uncaught exception 'yii\base\ErrorException' with message 'Undefined variable: model' in /home4/webemmen/public_html/WM_AppYii/views/site/settings.php:25
+Stack trace:
+#0 /home4/webemmen/public_html/WM_AppYii/views/site/settings.php(25): yii\base\ErrorHandler->handleError(8, 'Undefined varia...', '/home4/webemmen...', 25, Array)
+#1 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(325): require('/home4/webemmen...')
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(247): yii\base\View->renderPhpFile('/home4/webemmen...', Array)
+#3 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(371): yii\base\View->render('settings', Array, Object(app\controllers\SiteController))
+#5 /home4/webemmen/public_html/WM_AppYii/controllers/SiteController.php(107): yii\ba in /home4/webemmen/public_html/WM_AppYii/views/site/settings.php on line 25
+[08-Feb-2016 08:35:51 America/Denver] PHP Fatal error:  Call to a member function DataDBValue() on a non-object in /home4/webemmen/public_html/WM_AppYii/views/site/settings.php on line 25
+[08-Feb-2016 08:35:51 America/Denver] PHP Fatal error:  Uncaught exception 'yii\base\InvalidParamException' with message 'The view file does not exist: /home4/webemmen/public_html/WM_AppYii/views/site/error.php' in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php:226
+Stack trace:
+#0 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php(149): yii\base\View->renderFile('/home4/webemmen...', Array, Object(app\controllers\SiteController))
+#1 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(371): yii\base\View->render('error', Array, Object(app\controllers\SiteController))
+#2 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/web/ErrorAction.php(109): yii\base\Controller->render('error', Array)
+#3 [internal function]: yii\web\ErrorAction->run()
+#4 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Action.php(92): call_user_func_array(Array, Array)
+#5 /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/Controller.php(151): yii\base\Action->runWithP in /home4/webemmen/public_html/Yii_Framework/vendor/yiisoft/yii2/base/View.php on line 226
