@@ -8,10 +8,10 @@ CREATE TABLE IF NOT EXISTS Settings (
 
 INSERT INTO Settings VALUES (NULL,'SetApp_Demo','Description','Online');
 INSERT INTO Settings VALUES (NULL,'SetApp_Lang','Description','English');
-INSERT INTO Settings VALUES (NULL,'SetApp_Stle','Description','Inverse');
+INSERT INTO Settings VALUES (NULL,'SetApp_Stle','Description','Style01');
 INSERT INTO Settings VALUES (NULL,'SetApp_Lyut','Description','Default');
 INSERT INTO Settings VALUES (NULL,'SetApp_Menu','Description','Right');
-INSERT INTO Settings VALUES (NULL,'SetApp_0006','Description','Value');
+INSERT INTO Settings VALUES (NULL,'SetApp_SwMn','Description','Show');
 INSERT INTO Settings VALUES (NULL,'SetApp_0007','Description','Value');
 INSERT INTO Settings VALUES (NULL,'SetApp_0008','Description','Value');
 

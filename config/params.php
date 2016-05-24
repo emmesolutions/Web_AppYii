@@ -76,7 +76,7 @@ $SetOpWIVal= array(
 		);
 /* Operator Web Interface (OpWI) Parameters 	*/		
 /* Tabs  					*/
-$OpWI_NrTabs = 6; // Number Tables (Max 8)
+$OpWI_NrTabs = 4; // Number Tables (Max 8)
 $OpWI_NrRows = 4; // Number Rows   (Max 8)
 $OpWI_NrClmn = 2; // Number Column (Max 4)
 // DB Tables Names

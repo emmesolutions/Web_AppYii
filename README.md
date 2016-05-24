@@ -1,11 +1,18 @@
 #Web eMMe Yii-powered Application
-** Simply Yii-Powered Application Framework **
+*** Simply Yii-Powered Application Framework ***
 
-The template contains the basic features including user login/logout and a contact page.
-It includes all commonly used configurations that would allow you to focus on adding new
-features to your application.
+The template contains the basic features including:
 
-By Web eMMe
+* Login/Logout 
+* Contact
+* About
+* Settings
+
+Resposive Web Apllication Grid with selection button...
+
+
+By Martinelli Michele 
+Web eMMe
 
 
 

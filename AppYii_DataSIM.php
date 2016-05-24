@@ -103,7 +103,7 @@
 
   <?php
   
-	echo '<meta http-equiv="refresh" content="0;url=http://' . "appyii.webemme.net/web/index.php?r=site/application&" ;
+	echo '<meta http-equiv="refresh" content="0;url=http://' . "192.168.1.31/WM_AppYii/web/index.php?r=site/application&" ;
 	
 	// Operator Command+Parameter
 	$uri= $_SERVER['REQUEST_URI'];

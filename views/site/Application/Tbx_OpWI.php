@@ -31,7 +31,7 @@ use yii\helpers\Html;
 <div class="btn-toolbar" role="toolbar">
 
 	<div class="btn-group btn-group-lg btn-group-justified btn-group-fill-height">
-			<a href="http://appyii.webemme.net/AppYii_DataSIM.php" class="btn btn-default" role="button">
+			<a href="http://192.168.1.31/WM_AppYii/AppYii_DataSIM.php" class="btn btn-default" role="button">
 			<img src="../images/WM_AppIcons_01.svg" title="Speed-1" alt="Speed-1" height="24" width="24">
 			</a>			        
 	</div>
